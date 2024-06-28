@@ -1,0 +1,23 @@
+body{
+    background: rgb(154, 154, 206);
+    background-size: 1000px;
+    display: inline-block;
+    
+    
+}
+
+h3{
+    color: #fff;
+}
+
+a{
+    font-size: 2em;
+    color: black;
+    z-index: 2;
+}
+img{
+    opacity: 70%;
+    width: 40%;
+    z-index: 1;
+    
+}
